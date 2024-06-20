@@ -17,6 +17,7 @@ a {
   color: gray;
 }
 #navbar {
+  padding:20px;
   position: sticky;
   margin: 10px;
   top: 0px;
@@ -36,8 +37,8 @@ h1 {
   color: #a9a9a9;
 }
 .about img {
-  width: 10vw;
-  height:10vw;
+  width: 15vw;
+  height:15vw;
   margin: 5px;
   border-radius: 50%;
   border: black solid 1px;
@@ -58,8 +59,8 @@ h1 {
     flex-wrap: wrap;
   }
   .about img {
-    width: 100px;
-    height:100px;
+    width: 200px;
+    height:200px;
     margin: 0px auto;
   }
   h1 {

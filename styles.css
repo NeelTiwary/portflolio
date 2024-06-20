@@ -37,10 +37,10 @@ h1 {
   color: #a9a9a9;
 }
 .about img {
-  width: 15vw;
-  height:15vw;
+  width: 35vw;
+  height:35vw;
   margin: 5px;
-  border-radius: 5px;
+  border-radius: 70%;
   border: black solid 1px;
 }
 .project-tile img {
